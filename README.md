@@ -29,10 +29,10 @@ Turning **ideas into code** and making the web a little more awesome every day!
 
 ✨ **[Portfolio Website](https://github.com/Sandraa16012007/Portfolio-Website)**  
 > A sleek personal portfolio to showcase my skills & projects.
->
-> ✨ **[ReciP - Your smart kitchen companion](https://sandraa16012007.github.io/ReciP/)**  
+
+✨ **[ReciP - Your smart kitchen companion](https://sandraa16012007.github.io/ReciP/)**  
 > A web-app that allows you to snap pictures of ingredients, leftovers or fridge and find sustainable recipes accordingly.
-> 
+
 ✨ **[Whack-a-Mole Game](https://github.com/Sandraa16012007/whack-a-mole-game)**  
 > A fun, addictive game built with HTML, CSS, and JS! Test your reflexes 🐹  
 
