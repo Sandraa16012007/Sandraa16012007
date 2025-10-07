@@ -33,6 +33,9 @@ Turning **ideas into code** and making the web a little more awesome every day!
 ✨ **[ReciP - Your smart kitchen companion](https://sandraa16012007.github.io/ReciP/index.html)**  
 > An AI-powered web-app that allows you to snap pictures of ingredients, leftovers or fridge and find sustainable recipes accordingly.
 
+✨ **[ConnectED - Alumni & Student Networking Platform](https://connected1601.netlify.app/)**  
+> An web platform connecting students and alumni through mentorship, success stories, and event updates to foster meaningful professional relationships.
+
 ✨ **[Whack-a-Mole Game](https://github.com/Sandraa16012007/whack-a-mole-game)**  
 > A fun, addictive game built with HTML, CSS, and JS! Test your reflexes 🐹  
 
