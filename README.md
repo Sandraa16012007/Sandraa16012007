@@ -65,6 +65,6 @@ Turning **ideas into code** and making the web a little more awesome every day!
 ### 🔗 Let’s Connect!  
 📫 **Email:** sandrarosaprince@gmail.com <br>
 💼 **LinkedIn:** [https://www.linkedin.com/in/sandra-prince-815a14322/] <br>
-🌐 **Portfolio Website:** [https://sandraa16012007.github.io/Portfolio-Website/] <br>
+🌐 **Portfolio Website:** (https://sandraa16012007.github.io/portfolio/) <br>
 
 ---
