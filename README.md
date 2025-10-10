@@ -62,6 +62,14 @@ Turning **ideas into code** and making the web a little more awesome every day!
 
 ---
 
+## ⏱️ Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandraa16012007&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
 ### 🔗 Let’s Connect!  
 📫 **Email:** sandrarosaprince@gmail.com <br>
 💼 **LinkedIn:** [https://www.linkedin.com/in/sandra-prince-815a14322/] <br>
