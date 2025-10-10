@@ -12,7 +12,7 @@ Turning **ideas into code** and making the web a little more awesome every day!
 ---
 ### 🛠️ Tech Stack 
 
-**Frontend:** HTML, CSS, JavaScript  
+**Frontend:** HTML, CSS, JavaScript, React (Learning) 
 **UI/UX:** Responsive Design, CSS Animations, Figma
 **Other Tools:** Git, Firebase (learning)
 
