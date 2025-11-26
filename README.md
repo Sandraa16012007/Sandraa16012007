@@ -32,10 +32,10 @@ Turning **ideas into code** and making the web a little more awesome every day!
 ✨ **[Portfolio Website](https://github.com/Sandraa16012007/Portfolio-Website)**  
 > A sleek personal portfolio to showcase my skills & projects.
 
-✨ **[BloodBond - Connecting donors, saving lives](https://sandraa16012007.github.io/BloodBond/))**  
+✨ **[BloodBond - Connecting donors, saving lives](https://sandraa16012007.github.io/BloodBond/)**  
 > Progressive web-based solution that leverages real-time geolocation and Firebase’s reactive ecosystem to dynamically connect verified donors and recipients.
 
-✨ **[Edubot AI - AI-Powered study companion](https://edubotai.up.railway.app/))**  
+✨ **[Edubot AI - AI-Powered study companion](https://edubotai.up.railway.app/)**  
 > Your personalised AI study companion that generates a study plan and curates notes and resources for you.
 
 ✨ **[ReciP - Your smart kitchen companion](https://sandraa16012007.github.io/ReciP/index.html)**  
