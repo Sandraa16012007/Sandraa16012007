@@ -32,6 +32,12 @@ Turning **ideas into code** and making the web a little more awesome every day!
 ✨ **[Portfolio Website](https://github.com/Sandraa16012007/Portfolio-Website)**  
 > A sleek personal portfolio to showcase my skills & projects.
 
+✨ **[BloodBond - Connecting donors, saving lives](https://sandraa16012007.github.io/BloodBond/))**  
+> Progressive web-based solution that leverages real-time geolocation and Firebase’s reactive ecosystem to dynamically connect verified donors and recipients.
+
+✨ **[Edubot AI - AI-Powered study companion](https://edubotai.up.railway.app/))**  
+> Your personalised AI study companion that generates a study plan and curates notes and resources for you.
+
 ✨ **[ReciP - Your smart kitchen companion](https://sandraa16012007.github.io/ReciP/index.html)**  
 > An AI-powered web-app that allows you to snap pictures of ingredients, leftovers or fridge and find sustainable recipes accordingly.
 
@@ -43,12 +49,6 @@ Turning **ideas into code** and making the web a little more awesome every day!
 
 ✨ **[RPG Creature Search App](https://github.com/Sandraa16012007/rpg-creature-search-app)**  
 > Search through mystical creatures using an API & JavaScript magic!  
-
-✨ **[Cash Register App](https://github.com/Sandraa16012007/cash-register-app)**  
-> Calculates change like a pro cashier 💰 Built using JavaScript.  
-
-✨ **[Registration Forms & Landing Pages](https://github.com/Sandraa16012007)**  
-> Beautiful, responsive sign-up forms & landing pages for modern websites.  
 
 ---
 
