@@ -5,9 +5,9 @@
 Turning **ideas into code** and making the web a little more awesome every day!  
 
 ### 🚀 About Me  
-- 🔍 Curious mind exploring **Web Development**, **JavaScript Magic**, and **Creative UI Design**  
-- 💡 Love building **fun, interactive projects** and solving real-world problems  
-- 🎯 Currently leveling up my skills in **JavaScript**, **Firebase**, and **Backend Development**
+🔍 Curious mind exploring **Web Development**, **JavaScript Magic**, and **Creative UI Design**  
+💡 Love building **fun, interactive projects** and solving real-world problems  
+🎯 Currently leveling up my skills in **JavaScript**, **Firebase**, and **Backend Development**
   
 ---
 ### 🛠️ Tech Stack 
