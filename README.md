@@ -4,51 +4,112 @@
 💻 **Web Developer | Coding Enthusiast | Tech Explorer**  
 Turning **ideas into code** and making the web a little more awesome every day!  
 
-### 🚀 About Me  
-🔍 Curious mind exploring **Web Development**, **JavaScript Magic**, and **Creative UI Design**  
-💡 Love building **fun, interactive projects** and solving real-world problems  
-🎯 Currently leveling up my skills in **JavaScript**, **Firebase**, and **Backend Development**
-  
 ---
-### 🛠️ Tech Stack 
+### Tech Stack 
 
-**Frontend:** HTML, CSS, JavaScript, React (Learning) 
+**Frontend:** HTML, CSS, JavaScript, React, NextJS, TypeScript, TailwindCSS
 
-**UI/UX:** Responsive Design, CSS Animations, Figma
+**Backend:** Python, Firebase, Supabase, NodeJS
 
-**Other Tools:** Git, Firebase (learning)
+**Other Tools:** Figma, Git, Netlify, Vercel, HuggingFace
 
----
+<br>
 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase" title="Supabase"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+</div>
 
 ---
 
 
 ### 🌟 Featured Projects  
 
-✨ **[Portfolio Website](https://github.com/Sandraa16012007/Portfolio-Website)**  
-> A sleek personal portfolio to showcase my skills & projects.
+<div style="overflow-x:auto;">
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 900px;">
+<thead>
+<tr>
+<th style="border: 1px solid #ddd; padding: 12px;">Project</th>
+<th style="border: 1px solid #ddd; padding: 12px;">Description</th>
+<th style="border: 1px solid #ddd; padding: 12px;">Tech Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #ddd; padding: 12px;">
+<a href="https://skin-sync-orcin.vercel.app/"><b>SkinSync</b></a>
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+Privacy-first, AI-powered skincare assistant that analyzes product ingredients and provides personalized insights
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+ReactJS, TailwindCSS, Runanywhere VLM(OCR)+LLM
+</td>
+</tr>
 
-✨ **[BloodBond - Connecting donors, saving lives](https://sandraa16012007.github.io/BloodBond/)**  
-> Progressive web-based solution that leverages real-time geolocation and Firebase’s reactive ecosystem to dynamically connect verified donors and recipients.
+<tr>
+<td style="border: 1px solid #ddd; padding: 12px;">
+<a href="https://policysense-yb5h.vercel.app/"><b>PolicySense</b></a>
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+AI-native personalization layer designed to transform unstructured news into decision-ready intelligence.
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+React+NextJS, TailwindCSS, Gemini API, Firebase
+</td>
+</tr>
 
-✨ **[Edubot AI - AI-Powered study companion](https://edubotai.up.railway.app/)**  
-> Your personalised AI study companion that generates a study plan and curates notes and resources for you.
+<tr>
+<td style="border: 1px solid #ddd; padding: 12px;">
+<a href="https://github.com/Sandraa16012007/BloodBond"><b>BloodBond</b></a>
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+Web app that connects blood donors with those in urgent need using real-time location
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+HTML, CSS, JavaScript, Firebase
+</td>
+</tr>
 
-✨ **[ReciP - Your smart kitchen companion](https://sandraa16012007.github.io/ReciP/index.html)**  
-> An AI-powered web-app that allows you to snap pictures of ingredients, leftovers or fridge and find sustainable recipes accordingly.
+<tr>
+<td style="border: 1px solid #ddd; padding: 12px;">
+<a href="https://edubotai.up.railway.app/"><b>Edubot AI</b></a>
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+A multi-agent system designed to automate study planning and generate notes and resources.
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+Python, JavaScript, Gemini API
+</td>
+</tr>
 
-✨ **[ConnectED - Alumni & Student Networking Platform](https://connected1601.netlify.app/)**  
-> An web platform connecting students and alumni through mentorship, success stories, and event updates to foster meaningful professional relationships.
+<tr>
+<td style="border: 1px solid #ddd; padding: 12px;">
+<a href="https://sandraa16012007.github.io/ReciP/"><b>ReciP</b></a>
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+AI-powered recipe assistant that reduces food waste by detecting ingredients from leftover ingredients
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+HTML, CSS, JavaScript, HuggingFace
+</td>
+</tr>
 
-✨ **[Whack-a-Mole Game](https://github.com/Sandraa16012007/whack-a-mole-game)**  
-> A fun, addictive game built with HTML, CSS, and JS! Test your reflexes 🐹  
-
-✨ **[RPG Creature Search App](https://github.com/Sandraa16012007/rpg-creature-search-app)**  
-> Search through mystical creatures using an API & JavaScript magic!  
+</tbody>
+</table>
+</div> 
 
 ---
 
@@ -74,7 +135,7 @@ Turning **ideas into code** and making the web a little more awesome every day!
 
 ### 🔗 Let’s Connect!  
 📫 **Email:** sandrarosaprince@gmail.com <br>
-💼 **LinkedIn:** [https://www.linkedin.com/in/sandra-prince-815a14322/] <br>
-🌐 **Portfolio Website:** (https://sandraa16012007.github.io/portfolio/) <br>
+💼 **LinkedIn:** https://www.linkedin.com/in/sandra-rosa-prince/ <br>
+🌐 **Portfolio Website:** https://sandraa16012007.github.io/portfolio/ <br>
 
 ---
