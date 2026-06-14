@@ -53,6 +53,7 @@ Turning **ideas into code** and making the web a little more awesome every day!
 </tr>
 </thead>
 <tbody>
+
 <tr>
 <td style="border: 1px solid #ddd; padding: 12px;">
 <a href="https://skin-sync-orcin.vercel.app/"><b>SkinSync</b></a>
@@ -61,7 +62,19 @@ Turning **ideas into code** and making the web a little more awesome every day!
 Privacy-first, AI-powered skincare assistant that analyzes product ingredients and provides personalized insights
 </td>
 <td style="border: 1px solid #ddd; padding: 12px;">
-ReactJS, TailwindCSS, Runanywhere VLM(OCR)+LLM
+ReactJS, TailwindCSS, RunAnywhere VLM (OCR) + LLM
+</td>
+</tr>
+
+<tr>
+<td style="border: 1px solid #ddd; padding: 12px;">
+<a href="https://emotion-sentiment-fusion-detector.vercel.app/"><b>Emotion-Sentiment Fusion Detector</b></a>
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+Multimodal AI system combining facial emotion recognition and sentiment analysis to detect emotion-text mismatches, sarcasm, and hidden frustration
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+TensorFlow, Scikit-learn, FastAPI, Next.js, OpenCV, FastAPI
 </td>
 </tr>
 
@@ -70,10 +83,22 @@ ReactJS, TailwindCSS, Runanywhere VLM(OCR)+LLM
 <a href="https://policysense-yb5h.vercel.app/"><b>PolicySense</b></a>
 </td>
 <td style="border: 1px solid #ddd; padding: 12px;">
-AI-native personalization layer designed to transform unstructured news into decision-ready intelligence.
+AI-native personalization layer designed to transform unstructured news into decision-ready intelligence
 </td>
 <td style="border: 1px solid #ddd; padding: 12px;">
-React+NextJS, TailwindCSS, Gemini API, Firebase
+React, Next.js, TailwindCSS, Gemini API, Firebase
+</td>
+</tr>
+
+<tr>
+<td style="border: 1px solid #ddd; padding: 12px;">
+<a href="https://student-performance-predictor-dgkutgifjqctwc5gxqee3u.streamlit.app/"><b>Student Performance Predictor</b></a>
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+Machine learning system that predicts student academic performance using feature engineering, model comparison, and performance evaluation
+</td>
+<td style="border: 1px solid #ddd; padding: 12px;">
+Python, Scikit-learn, Pandas, NumPy, Streamlit
 </td>
 </tr>
 
@@ -94,7 +119,7 @@ HTML, CSS, JavaScript, Firebase
 <a href="https://edubotai.up.railway.app/"><b>Edubot AI</b></a>
 </td>
 <td style="border: 1px solid #ddd; padding: 12px;">
-A multi-agent system designed to automate study planning and generate notes and resources.
+A multi-agent system designed to automate study planning and generate notes and resources
 </td>
 <td style="border: 1px solid #ddd; padding: 12px;">
 Python, JavaScript, Gemini API
@@ -106,16 +131,16 @@ Python, JavaScript, Gemini API
 <a href="https://sandraa16012007.github.io/ReciP/"><b>ReciP</b></a>
 </td>
 <td style="border: 1px solid #ddd; padding: 12px;">
-AI-powered recipe assistant that reduces food waste by detecting ingredients from leftover ingredients
+AI-powered recipe assistant that reduces food waste by detecting ingredients from available leftovers
 </td>
 <td style="border: 1px solid #ddd; padding: 12px;">
-HTML, CSS, JavaScript, HuggingFace
+HTML, CSS, JavaScript, Hugging Face Models
 </td>
 </tr>
 
 </tbody>
 </table>
-</div> 
+</div>
 
 ---
 
