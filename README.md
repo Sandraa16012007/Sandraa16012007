@@ -41,7 +41,7 @@ Turning **ideas into code** and making the web a little more awesome every day!
 ---
 
 
-### 🌟 Featured Projects  
+### Featured Projects  
 
 <div style="overflow-x:auto;">
 <table align="center" style="border-collapse: collapse; width: 100%; max-width: 900px;">
@@ -144,7 +144,7 @@ HTML, CSS, JavaScript, Hugging Face Models
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandraa16012007&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandraa16012007&theme=radical" height="180"/>
@@ -156,7 +156,7 @@ HTML, CSS, JavaScript, Hugging Face Models
 
 ---
 
-## ⏱️ Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandraa16012007&theme=react-dark&hide_border=true&area=true"/>
@@ -165,8 +165,8 @@ HTML, CSS, JavaScript, Hugging Face Models
 ---
 
 ### 🔗 Let’s Connect!  
-📫 **Email:** sandrarosaprince@gmail.com <br>
-💼 **LinkedIn:** https://www.linkedin.com/in/sandra-rosa-prince/ <br>
-🌐 **Portfolio Website:** https://sandraa16012007.github.io/portfolio/ <br>
+**Email:** sandrarosaprince@gmail.com <br>
+**LinkedIn:** https://www.linkedin.com/in/sandra-rosa-prince/ <br>
+**Portfolio Website:** https://sandraa16012007.github.io/portfolio/ <br>
 
 ---
