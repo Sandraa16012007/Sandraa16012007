@@ -1,7 +1,7 @@
 
-# 👋 Hey there! I'm Sandra  
+# Hey there! I'm Sandra 👋
 
-💻 **Web Developer | Coding Enthusiast | Tech Explorer**  
+**Web Developer | Coding Enthusiast | Tech Explorer**  
 Turning **ideas into code** and making the web a little more awesome every day!  
 
 ---
