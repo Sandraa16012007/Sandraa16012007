@@ -54,7 +54,7 @@ You can also use an external image URL instead of a local file.
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/Sandraa16012007/hemolens">
+<a href="https://github.com/Sandraa16012007/hemolens.png">
   <img src="./assets/projects/hemolens" alt="Hemolens project screenshot" width="100%" />
 </a>
 
@@ -91,7 +91,7 @@ Privacy-first local AI skincare assistant that analyzes product ingredients and 
 <td width="50%" valign="top">
 
 <a href="https://github.com/Sandraa16012007/emotion-sentiment-fusion-detector">
-  <img src="./assets/projects/emotion-sentiment" alt="Emotion Sentiment Fusion Detector project screenshot" width="100%" />
+  <img src="./assets/projects/emotion-sentiment.png" alt="Emotion Sentiment Fusion Detector project screenshot" width="100%" />
 </a>
 
 ### Emotion Sentiment Fusion Detector
