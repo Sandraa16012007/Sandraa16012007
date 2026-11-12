@@ -14,9 +14,6 @@ Building web applications and AI-powered products with a focus on practical engi
 <a href="https://www.linkedin.com/in/sandra-rosa-prince/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://sandraa16012007.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
 <a href="mailto:sandrarosaprince@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -216,9 +213,8 @@ My work spans frontend development, AI/ML applications, APIs, data-driven system
 I'm interested in opportunities involving frontend engineering, full-stack development, AI/ML, and product engineering.
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/sandra-rosa-prince/">LinkedIn</a> ·
+  <a href="mailto:sandrarosaprince@gmail.com">Email</a>
 </p>
 
 ---
